@@ -64,4 +64,4 @@ Eu instalei pelo GitHub dentro do `instalar_pacotes.R`. Ele precisa do shiny na 
 
 ## Autora
 
-Jennifer Luz Lopes, [Café com R]([https://jenniferlopes.quarto.pub/portifolio](https://jenniferlopes.github.io/meu_site/))
+Jennifer Luz Lopes, [Café com R](https://jenniferlopes.github.io/meu_site/)
